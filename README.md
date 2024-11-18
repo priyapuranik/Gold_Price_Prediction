@@ -9,7 +9,7 @@ The goal of this project is to predict gold prices using historical data. The mo
 ## Dataset
 
 The dataset contains the following columns:
-- `Date`
+- `Date`: From year 2008 to 2018
 - `SPX`: S&P 500 index
 - `GLD`: Gold price
 - `USO`: Crude oil prices
